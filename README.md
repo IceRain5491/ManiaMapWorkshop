@@ -8,9 +8,11 @@ osu主页：https://osu.ppy.sh/users/7859973
 一个用来编辑 osu! Mania 谱面的工具集。
 
 内置转谱器： mania-converter v0.3.0 by Siflorite
+
 (是目前转osz后不对齐时间轴情况下最少的批量转谱方案)
 
 内置段位计算器： DanCourse ACC Calculator v0.1.0 by _IceRain
+
 内置6K Rating计算器：6K Rating Calculator v0.1.0 by _IceRain
 
 ———————————————————————————————————————
