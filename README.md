@@ -13,7 +13,6 @@ osu主页：https://osu.ppy.sh/users/7859973
 内置段位计算器： DanCourse ACC Calculator v0.1.0 by _IceRain
 内置6K Rating计算器：6K Rating Calculator v0.1.0 by _IceRain
 
-
 ———————————————————————————————————————
 
 1. 文件加载与管理
