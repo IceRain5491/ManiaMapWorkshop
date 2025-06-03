@@ -2,6 +2,7 @@
 作者：_IceRain
 
 osu主页：https://osu.ppy.sh/users/7859973
+![image](https://github.com/user-attachments/assets/4f39e58d-d498-4913-9aaa-0b04e3b26bb9)
 
 ———————————————————————————————————————
 
@@ -57,6 +58,8 @@ osu主页：https://osu.ppy.sh/users/7859973
 
 
 5. 组包器
+ ![image](https://github.com/user-attachments/assets/330b8134-5ada-404a-a4d3-ba329ed0c587)
+
 - 统一设置出包路径并打包选定谱面，生成新的文件夹或直接打包为 .osz 文件。
 - 单曲组包复制原理，不影响源文件。
 - 可批量自动调整 OD/HP。（根据各自谱面的LN占比）
@@ -81,9 +84,15 @@ osu主页：https://osu.ppy.sh/users/7859973
 6. 其他特性
 - Title/Artist/Creator输入框实时拦截并屏蔽非法字符：确保保存后的谱面文件名与路径都只包含合法字符，避免因文件名乱码而导致打包后无法正常导入 Malody。
 - 未来将集成更多包括但不限于谱面编辑的实用工具，找工具不再烦恼：
+
 6.1 段位acc计算支持
+![image](https://github.com/user-attachments/assets/dd17da2e-758e-4efb-9bb2-f7275205fe43)
+
 - 内置段位计算器，覆盖部分段位的单曲acc计算。
+
 6.2 6K谱面等级计算以及6K Rating计算支持
+![image](https://github.com/user-attachments/assets/6362498f-8249-478e-af05-80846c507718)
+
 - 内置6K Rating计算器，可读取本地Songs文件夹中的所有6K谱面，也可导入/拖入任何6K谱面，进行谱面等级计算（基于xxysr）。
 - 按难度搜谱功能（较慢）：点击后会把osu本地所有6K谱都算好等级，并按照等级和RC/LN分类筛选。
 - 按谱师搜谱功能（较快）：点击后会把osu本地所有6K谱都读取，并按照谱师和谱包名分类筛选，且下拉栏支持输入关键词搜索。
