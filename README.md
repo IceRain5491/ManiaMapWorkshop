@@ -58,6 +58,7 @@ osu主页：https://osu.ppy.sh/users/7859973
 
 
 5. 组包器
+
  ![image](https://github.com/user-attachments/assets/330b8134-5ada-404a-a4d3-ba329ed0c587)
 
 - 统一设置出包路径并打包选定谱面，生成新的文件夹或直接打包为 .osz 文件。
@@ -86,11 +87,13 @@ osu主页：https://osu.ppy.sh/users/7859973
 - 未来将集成更多包括但不限于谱面编辑的实用工具，找工具不再烦恼：
 
 6.1 段位acc计算支持
+
 ![image](https://github.com/user-attachments/assets/dd17da2e-758e-4efb-9bb2-f7275205fe43)
 
 - 内置段位计算器，覆盖部分段位的单曲acc计算。
 
 6.2 6K谱面等级计算以及6K Rating计算支持
+
 ![image](https://github.com/user-attachments/assets/6362498f-8249-478e-af05-80846c507718)
 
 - 内置6K Rating计算器，可读取本地Songs文件夹中的所有6K谱面，也可导入/拖入任何6K谱面，进行谱面等级计算（基于xxysr）。
