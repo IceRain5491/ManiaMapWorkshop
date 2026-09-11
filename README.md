@@ -2,7 +2,7 @@
 作者：_IceRain
 
 osu主页：https://osu.ppy.sh/users/7859973
-![image](https://github.com/user-attachments/assets/4f39e58d-d498-4913-9aaa-0b04e3b26bb9)
+<img width="1786" height="1454" alt="image" src="https://github.com/user-attachments/assets/6e4414ba-41f6-496a-bbe9-975f6b8b9984" />
 
 ———————————————————————————————————————
 
