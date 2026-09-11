@@ -3,6 +3,7 @@
 
 osu主页：https://osu.ppy.sh/users/7859973
 <img width="1786" height="1454" alt="image" src="https://github.com/user-attachments/assets/6e4414ba-41f6-496a-bbe9-975f6b8b9984" />
+<img width="1786" height="1454" alt="image" src="https://github.com/user-attachments/assets/6598f324-c479-4e16-afb7-00d09e91682d" />
 
 ———————————————————————————————————————
 
